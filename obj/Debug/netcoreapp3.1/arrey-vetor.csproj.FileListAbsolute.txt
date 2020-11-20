@@ -11,3 +11,16 @@ C:\Users\leand\OneDrive\Área de Trabalho\arrey-vetor\obj\Debug\netcoreapp3.1\ar
 C:\Users\leand\OneDrive\Área de Trabalho\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.dll
 C:\Users\leand\OneDrive\Área de Trabalho\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.pdb
 C:\Users\leand\OneDrive\Área de Trabalho\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.genruntimeconfig.cache
+C:\Users\dev\Desktop\arrey-vetor\bin\Debug\netcoreapp3.1\arrey-vetor.exe
+C:\Users\dev\Desktop\arrey-vetor\bin\Debug\netcoreapp3.1\arrey-vetor.deps.json
+C:\Users\dev\Desktop\arrey-vetor\bin\Debug\netcoreapp3.1\arrey-vetor.runtimeconfig.json
+C:\Users\dev\Desktop\arrey-vetor\bin\Debug\netcoreapp3.1\arrey-vetor.runtimeconfig.dev.json
+C:\Users\dev\Desktop\arrey-vetor\bin\Debug\netcoreapp3.1\arrey-vetor.dll
+C:\Users\dev\Desktop\arrey-vetor\bin\Debug\netcoreapp3.1\arrey-vetor.pdb
+C:\Users\dev\Desktop\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.AssemblyInfo.cs
+C:\Users\dev\Desktop\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.dll
+C:\Users\dev\Desktop\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.pdb
+C:\Users\dev\Desktop\arrey-vetor\obj\Debug\netcoreapp3.1\arrey-vetor.genruntimeconfig.cache

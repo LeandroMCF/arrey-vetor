@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\leand\\.nuget\\packages\\": {}
+    "C:\\Users\\dev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\arrey-vetor\\arrey-vetor.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Desktop\\arrey-vetor\\arrey-vetor.csproj",
       "projectName": "arrey-vetor",
-      "projectPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\arrey-vetor\\arrey-vetor.csproj",
-      "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\arrey-vetor\\obj\\",
+      "projectPath": "C:\\Users\\dev\\Desktop\\arrey-vetor\\arrey-vetor.csproj",
+      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dev\\Desktop\\arrey-vetor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -51,12 +51,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

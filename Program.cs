@@ -16,15 +16,20 @@ namespace arrey_vetor
                 Console.WriteLine("Array");
                 Console.WriteLine("Quantas pessoas deseja adicionar? (Numero maximo de 10 pessoas)");
                 pessoas = int.Parse(Console.ReadLine());
-                while (pessoas > 10)
+                while (pessoas > 10 || pessoas < 2)
                 {
-                    Console.WriteLine("Numero maximo de 10 pessoas, digite o número novamente: ");
+                    Console.WriteLine("Numero maximo de 10 pessoas e numero minimo de 2 pessoas, digite o número novamente: ");
                     pessoas = int.Parse(Console.ReadLine());
                 }
                 for (var contador = 0; contador < pessoas; contador++)
                 {
                     Console.WriteLine("digite o nome");
                     nomes[contador] = Console.ReadLine();
+                    while (nomes[contador] == "")
+                    {
+                        Console.Write("Você nâo digitou nenhum nome \nDigite o nome novamente: ");
+                        nomes[contador] = Console.ReadLine();
+                    }
                     Console.WriteLine("digite a idade");
                     idades[contador] = int.Parse(Console.ReadLine());
                 }

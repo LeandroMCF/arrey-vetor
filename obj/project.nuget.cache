@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxSR8dYqqxRASd99weVlhONnDWOJOPFv+7yQACXh/+/hU92Jr6mBIkxSuip5QWg7xgQMTEcgdwmnTywkMUZHYw==",
+  "dgSpecHash": "/1HVCY3m3w4mYuNmQck8qttIO57VvfbPibX1BL4X8I52Bn+Njnw6Vgd+IcBNDK/MeqLhBV1kylg7QfmQfA1Uuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\arrey-vetor\\arrey-vetor.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\dev\\Desktop\\arrey-vetor\\arrey-vetor.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
